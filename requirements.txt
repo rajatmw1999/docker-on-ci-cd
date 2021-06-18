@@ -14,6 +14,9 @@ ipaddress==1.0.22
 jdcal==1.4.1
 jsonpatch==1.23
 jsonpointer==2.0
+libcurl3-gnutls
+libcurl3-nss
+libcurl4
 natsort==6.0.0
 ndg-httpsclient==0.5.1
 openpyxl==2.6.2
